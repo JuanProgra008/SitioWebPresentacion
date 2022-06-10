@@ -10,11 +10,14 @@ body{
     border: double 20px rgb(90, 70, 70);
     background-color: rgb(92, 11, 197);
         }
+        h2{
+            color: rgb(6, 125, 155);
+        }
     p{
         color: rgb(255, 255, 255);
     }
     summary{
-        color: rgb(19, 12, 12);
+        color: rgb(182, 62, 62);
         font-size: large 20px;
         font-style: normal;
     }
@@ -23,4 +26,28 @@ body{
     }
     .principio{
         color: rgb(255, 255, 255);
+    }
+    .fondo{
+        background: url(../img/fondooriginal.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    .fondoP2{
+        background:url(../img/fondopagina22.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    .fondo3{
+        background:url(../img/fondoparapg2jpg.jpg);
+        background-repeat: no-repeat;
+        background-size:cover ;
+        background-attachment: fixed;
+    }
+    .fondo4{
+        background:url(../img/fondopagina4.jpg);
+        background-repeat: no-repeat;
+        background-size:cover ;
+        background-attachment: fixed;
     }
